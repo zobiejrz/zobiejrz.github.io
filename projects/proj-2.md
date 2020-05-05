@@ -1,15 +1,12 @@
 ---
 layout: post
-title: 'Cooley'
+title: 'Color Picker'
 ---
 
-My friends and I wanted to play Dungeons and Dragons long distance, but there
-was somewhat of a mobility issue since we would have to bring character sheets
-and dice with us if we wanted to play. All of us had our Discord accounts, so
-the idea of making a bot was born!
+A simple app to pick out colors using RGB values.
 <br><br>
-Built using C#, Cooley stores character sheets for users in JSON objects and
-allows them to select whichever one they want to use. Most things on the D&D 5e
-character sheets are accounted for, and commands to update or edit them.
+I wanted a project to practice SwiftUI, and this is it! I practiced using MVC and got to experience putting something on the app store for the first time.
+<br><br>
+You can check out the Github Repository [here](https://github.com/zobiejrz/color){:target="_blank"}.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include plain-img.html image="projects/proj-2/AppStoreImage.jpg" %}

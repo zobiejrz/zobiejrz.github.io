@@ -14,8 +14,10 @@ menu:
 
 seo:
   description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://twitter.com/zobiejrz'
+  rel-author: 'https://www.twitter.com/zobiejrz'
   rel-publisher: ''
+
+url: https://www.benzobrist.dev
 
 #-------------------------------
 # Google Analytics Section
@@ -32,9 +34,9 @@ google-analytics-ua: ''
 # Disqus Section
 
 # Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'thathungrymind'
+# disqus:
+#   comments: false
+#   disqus_shortname: 'thathungrymind'
 
 #-------------------------------
 # About Section
@@ -42,28 +44,49 @@ disqus:
 about: >
   # Ben Zobrist
 
-  I'm a college student at Brigham Young University in Provo, UT. I'm currently studying Computer Science, but I've been playing with code since I was I was 10. When I'm not working on some side project, I also play Ultimate Frisbee and drink chocolate milk.
+  I'm a college student at Brigham Young University in Provo, UT. I started my Computer Science degree in the Fall of 2019, but I've been coding since I was I was 10. When I'm not working on a side project, I also play Ultimate Frisbee and drink chocolate milk.
 
 contact: >
   # Contact
 
-  Feel free to connect [through email](mailto:ben@zobie.com), I generally get back to people within a day.
+  Feel free to connect [through email](mailto:ben@zobie.com) or on [Twitter](https://twitter.com/intent/tweet?text=@zobiejrz). I generally get back to people the same day.
+
+#-------------------------------
+# Privacy Policy
+
+privacy-policy: >
+  # Privacy Policy
+
+  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+  
+  # Changes to This Privacy Policy
+
+  I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+  
+  # Security
+  
+  I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+  
+  # Links to Other Sites
+
+  This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+  
+  ###### This policy is effective as of 2020-05-05
 
 #-------------------------------
 # Work Section
 
 projects:
 - {name: 'random_song_exe', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Cooley', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Color Picker', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'ping-pong', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'ZCoder', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Cooley', folder: 'proj-4', file: 'projects/proj-4.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/zobiejrz'}
-- {icon: 'instagram', link: '#'}
 - {icon: 'github', link: 'https://github.com/zobiejrz'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/ben-zobrist'}
 - {icon: 'envelope', link: 'mailto:ben@zobie.com'}
