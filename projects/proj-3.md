@@ -1,14 +1,16 @@
 ---
 layout: post
-title: 'ping-pong'
+title: 'SafeDeath'
 ---
 
-For a sort of 'Hello World' for Swift 4, I built a game of Pong for Mac. Nothing
-to difficult, but it gave me a good introduction to Xcode.
-<br><br>
-I didn't make a playable version readily available, but feel free to visit the
-[repository](https://www.github.com/zobiejrz/ping-pong) and play with it locally.
-<br><br>
-When I very first made this project from a tutorial, it was for the iPhone! It was
-much more feature dense, but wasn't written very well...
-{% include plain-img.html image="projects/proj-3/iPhoneVersion.jpg" %}
+My first attempt at a Minecraft server plug-in.
+
+This project was a pretty simple Java project, but ended up being loads of fun to write. After dying *many* times
+far from my bed on my friends server, I decided the only rational thing (after rage quitting of course)
+was to code my own plug-in to put player items into a chest on their death so nothing gets lost!
+
+It has some good configuration support so the server admins get to customize some things on their end.
+
+It wasn't really meant to be for the public at large, so I keep it [here](https://github.com/zobiejrz/SafeDeathPlugin).
+
+{% include plain-img.html image="projects/proj-3/chest.jpg" %}
