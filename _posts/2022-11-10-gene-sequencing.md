@@ -3,7 +3,7 @@ title: Gene Sequencing
 date: 2022-11-10 13:00:00 -0400
 categories: [School Projects, Algorithm Design & Analysis]
 tags: [Python, Dynamic Programming]
-pin: true
+pin: false
 math: false
 mermaid: true
 image:

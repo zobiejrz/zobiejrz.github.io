@@ -3,7 +3,7 @@ title: Palmer Penguin Classification
 date: 2022-05-31 13:00:00 -0400
 categories: [Personal Projects, Data Science]
 tags: [Python, Machine Learning, Data Science]
-pin: true
+pin: false
 math: false
 mermaid: true
 image:

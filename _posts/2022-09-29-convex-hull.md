@@ -3,7 +3,7 @@ title: Convex Hull
 date: 2022-09-29 13:00:00 -0400
 categories: [School Projects, Algorithm Design & Analysis]
 tags: [Python, Divide & Conquer]
-pin: true
+pin: false
 math: false
 mermaid: true
 image:
