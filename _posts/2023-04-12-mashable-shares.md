@@ -3,7 +3,7 @@ title: Predicting Number of Shares
 date: 2023-04-12 13:00:00 -0400
 categories: [School Projects, Statistics for Data Science]
 tags: [Data Science, Python]
-pin: true
+pin: false
 math: false
 mermaid: false
 ---
