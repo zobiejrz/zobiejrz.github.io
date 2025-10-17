@@ -6,6 +6,6 @@ order: 4
 
 Hello all!
 
-My name is Ben. I'm a senior at Brigham Young University, where I am obtaining my Bachelor of Science in Computer Science, with an emphasis in Data Science. I love learning, and I'm always trying to synthesize the best of what I learn into solutions.
+My name is Ben. I'm a recent graduate from Brigham Young University, where I obtained my Bachelor of Science in Computer Science, with an emphasis in Data Science. I love learning, and I'm always trying to synthesize the best of what I learn into solutions.
 
-I am preparing to graduate in December, and am looking for full-time software development positions starting in January. I thrive in collaborative environments and I have work experience in frontend development. I also have experience in iOS development using Swift, UIKit, and SwiftUI, and I have experience developing for blockchain technologies. Feel free to reach out regarding any positions you might be hiring for.
+I’m a software engineer who loves turning ideas into polished apps. My experience spans frontend development, iOS apps using Swift, UIKit, and SwiftUI, and blockchain projects. I thrive in collaborative teams and am currently looking for full-time roles. Let’s connect if you’re hiring or just want to chat about building software!
