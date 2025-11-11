@@ -3,7 +3,7 @@ title: The Making of zChess Clock
 date: 2025-11-07
 categories: [Personal Projects, iOS]
 tags: [iOS, Swift, Chess]
-pin: true
+pin: false
 math: false
 mermaid: false
 image:
