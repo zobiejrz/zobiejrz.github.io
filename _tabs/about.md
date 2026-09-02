@@ -6,6 +6,6 @@ order: 4
 
 Hello all!
 
-My name is Ben. I'm a recent graduate from Brigham Young University, where I obtained my Bachelor of Science in Computer Science, with an emphasis in Data Science. I love learning, and I'm always trying to synthesize the best of what I learn into solutions.
+I'm a software engineer with a B.S. in Computer Science (Data Science emphasis) from Brigham Young University, graduating December 2023. I build production applications across iOS, web, and data-driven systems — I've shipped multiple apps to the App Store, contributed machine learning and data analysis work to two published research papers, and work with a toolkit spanning Swift, Python, JavaScript, and modern web frameworks.
 
-I’m a software engineer who loves turning ideas into polished apps. My experience spans frontend development, iOS apps using Swift, UIKit, and SwiftUI, and blockchain projects. I thrive in collaborative teams and am currently looking for full-time roles. Let’s connect if you’re hiring or just want to chat about building software!
+I'm currently looking for full-time roles, let's connect if you're hiring or just want to chat about building software!
